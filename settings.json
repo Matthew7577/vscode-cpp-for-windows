@@ -72,7 +72,17 @@
         "xstring": "cpp",
         "xtr1common": "cpp",
         "xutility": "cpp",
-        "memory_resource": "cpp"
+        "memory_resource": "cpp",
+        "bitset": "cpp",
+        "cstdarg": "cpp",
+        "forward_list": "cpp",
+        "ratio": "cpp",
+        "regex": "cpp",
+        "semaphore": "cpp",
+        "sstream": "cpp",
+        "stack": "cpp",
+        "stop_token": "cpp",
+        "thread": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
