@@ -4,11 +4,11 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceRoot}",
-                //"C:\\MinGW\\include",
-                //"C:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include",
-                //"C:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++",
-                "C:\\Users\\matth\\scoop\\apps\\gcc\\current\\include",
-                "C:\\Users\\matth\\scoop\\apps\\gcc\\current\\include\\c++\\*"
+                "C:\\mingw64\\include",
+                "C:\\mingw64\\lib\\gcc\\*mingw32\\14.2.0\\include",
+                "C:\\mingw64\\lib\\gcc\\*mingw32\\14.2.0\\include\\c++"
+                //"C:\\Users\\matth\\scoop\\apps\\gcc\\current\\include",
+                //"C:\\Users\\matth\\scoop\\apps\\gcc\\current\\include\\c++\\*"
             ],
             "defines": [
                 "_DEBUG",
@@ -20,11 +20,11 @@
             "browse": {
                 "path": [
                     "${workspaceRoot}",
-                    //"C:\\MinGW\\include",
-                    //"C:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include",
-                    //"C:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++",
-                    "C:\\Users\\matth\\scoop\\apps\\gcc\\current\\include",
-                    "C:\\Users\\matth\\scoop\\apps\\gcc\\current\\include\\c++\\*"
+                    "C:\\mingw64\\include",
+                    "C:\\mingw64\\lib\\gcc\\*mingw32\\14.2.0\\include",
+                    "C:\\mingw64\\lib\\gcc\\*mingw32\\14.2.0\\include\\c++"
+                    //"C:\\Users\\matth\\scoop\\apps\\gcc\\current\\include",
+                    //"C:\\Users\\matth\\scoop\\apps\\gcc\\current\\include\\c++\\*"
                 ],
                 "limitSymbolsToIncludedHeaders": true,
                 "databaseFilename": ""

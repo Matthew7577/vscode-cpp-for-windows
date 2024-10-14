@@ -16,7 +16,7 @@
         {
             "type": "cppbuild",
             "label": "C/C++: g++.exe build active file",
-            "command": "C:\\Users\\matth\\scoop\\apps\\gcc\\current\\bin\\g++.exe",
+            "command": "C:\\mingw64\\bin\\g++.exe",
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
