@@ -7,8 +7,6 @@
                 "C:\\mingw64\\include",
                 "C:\\mingw64\\lib\\gcc\\*mingw32\\14.2.0\\include",
                 "C:\\mingw64\\lib\\gcc\\*mingw32\\14.2.0\\include\\c++"
-                //"C:\\Users\\matth\\scoop\\apps\\gcc\\current\\include",
-                //"C:\\Users\\matth\\scoop\\apps\\gcc\\current\\include\\c++\\*"
             ],
             "defines": [
                 "_DEBUG",
@@ -23,12 +21,11 @@
                     "C:\\mingw64\\include",
                     "C:\\mingw64\\lib\\gcc\\*mingw32\\14.2.0\\include",
                     "C:\\mingw64\\lib\\gcc\\*mingw32\\14.2.0\\include\\c++"
-                    //"C:\\Users\\matth\\scoop\\apps\\gcc\\current\\include",
-                    //"C:\\Users\\matth\\scoop\\apps\\gcc\\current\\include\\c++\\*"
                 ],
                 "limitSymbolsToIncludedHeaders": true,
                 "databaseFilename": ""
-            }
+            },
+            "compilerPath": "C:/mingw64/bin/g++.exe"
         }
     ],
     "version": 4
